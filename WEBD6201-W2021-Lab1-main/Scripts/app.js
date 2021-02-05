@@ -1,5 +1,5 @@
 /* custom JavaScript goes here */
-
+/* David Osagiede, 100739445, date: 2/5/2021 */
 //IIFE - Immediately Invoked Function Expression
 //AKA - Anonymous Self-Executing Function
 //Closure - limits scope leak
@@ -59,7 +59,7 @@
         `;
         
     }
-
+//functions for display about, projects, services and contacts
     function displayAbout()
     {
 
@@ -131,7 +131,7 @@
     }
 
      
-
+//function starts for switch and functions for displaying the home, about, projects, services, contact, and contact list pages
     function Start()
     {
         console.log("App Started...");
